@@ -1,2 +1,4 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<title>Anika Puri: Personal Site and Portfolio</title>
+<h1>Anika Puri</h1>
+<p>Hi! My name is Anika Puri and I'm currently a sophomore at MIT majoring in 6-4.</p>
+<img src="/Users/anikapuri/6.C35 Visualization & Society/GitHub/my-portfolio/static/images/AnikaPuri_Photo (2).jpg" alt="picture of Anika Puri in the woods jpg" width="300" height=auto />
