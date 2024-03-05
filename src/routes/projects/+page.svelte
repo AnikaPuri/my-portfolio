@@ -1,5 +1,8 @@
+<script>import projects from '$lib/projects.json';<script>
+
 <title>Project</title>
     <h1>Projects</h1>
+    <pre>{ JSON.stringify(projects, null, "\t") }</pre>
     <div class="projects">
       <article>
         <h2>Lorem ipsum dolor sit.</h2>
