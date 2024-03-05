@@ -19,10 +19,10 @@ if (currentLink) { // or if (currentLink !== undefined)
 //currentLink?.classList.add("current");
 
 let pages = [
-	{url: "", title: "Home"},
-	{url: "projects/", title: "Projects"},
-    {url: "contact/", title: "Contact"},
-    {url: "resume/", title: "Resume"},
+	{url: "./", title: "Home"},
+	{url: "projects", title: "Projects"},
+    {url: "contact", title: "Contact"},
+    {url: "resume", title: "Resume"},
     {url: "https://github.com/AnikaPuri", title: "Profile"}
 	
 ];
@@ -30,16 +30,10 @@ let pages = [
 let nav = document.createElement("nav");
 document.body.prepend(nav);
 
-const ARE_WE_HOME = document.documentElement.classList.contains("home");
-
 for (let p of pages) {
 	let url = p.url;
 	let title = p.title;
 
-    if (!ARE_WE_HOME && !url.startsWith("http")) {
-      	url = "../" + url;
-    }
-	
     // url = !ARE_WE_HOME && !url.startsWith("http") ? "../" + url : url;
 	// Create link and add it to nav
     //nav.insertAdjacentHTML("beforeend", `<a href="${ url }">${ title }</a>` );
@@ -47,10 +41,6 @@ for (let p of pages) {
 	let a = document.createElement("a");
 	a.href = url;
 	a.textContent = title;
-
-	if (a.host === location.host && a.pathname === location.pathname) {
-		a.classList.add("current");
-	}
 
 	if (a.host !== location.host) {
 		a.target = "_blank";
