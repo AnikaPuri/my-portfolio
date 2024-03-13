@@ -18,3 +18,33 @@
         </article>
       {/each}
     </div>
+
+    {#await fetch("https://api.github.com/users/AnikaPuri") }
+    <p>Loading...</p>
+  {:then response}
+    {#await response.json()}
+      <p>Decoding...</p>
+    {:then data}
+      <section>
+        <h2>My GitHub Stats</h2>     
+        <dl>
+          <dt>Followers</dt>
+          <dd>{data.followers}</dd>
+        
+          <dt>Following</dt>
+          <dd>{data.following}</dd>
+        
+          <dt>Login</dt>
+          <dd>{data.login}</dd>
+        </dl> 
+      </section>
+    {:catch error}
+      <p class="error">
+        Something went wrong: {error.message}
+      </p>
+    {/await}
+  {:catch error}
+    <p class="error">
+      Something went wrong: {error.message}
+    </p>
+  {/await}
