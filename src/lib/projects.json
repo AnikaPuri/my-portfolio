@@ -1,61 +1,73 @@
 [
     {
-        "title": "Lorem ipsum dolor sit.",
+        "title": "Assignment 1: Data, Visualization, and Housing",
+        "year": "2024",
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit mollitia, exercitationem modi accusamus commodi, similique asperiores eveniet aut quibusdam numquam reiciendis ut incidunt praesentium sint odit veniam adipisci ipsam quas."
+        "description": "This first assignment will give you a gentle introduction to the key ideas of this course: how can we use data and visualization to analyze, communicate, and ultimately affect policy around the housing affordability crisis."
     },
     {
-        "title": "Hic nesciunt error pariatur!",
+        "title": "Assignment 2: Exploratory Visual Analysis",
+        "year": "2024",
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Itaque repellendus placeat fugit et iusto quas assumenda. Excepturi officia incidunt nobis soluta recusandae, sint possimus ullam ea fuga, commodi, facere optio cupiditate debitis explicabo molestias doloremque quia necessitatibus nam?"
+        "description": "In this assignment, you will begin to work with public and proprietary datasets related to MAPC’s research themes and subthemes. You will choose one subtheme (i.e., one dataset) to conduct exploratory analysis using visualization, with a focus on understanding the shape & structure of the data, investigating initial questions, and developing preliminary insights & hypotheses."
     },
     {
-        "title": "Maiores illum veniam quibusdam.",
+        "title": "Assignment 3: Visualization Design",
+        "year": "2024",
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Necessitatibus, distinctio voluptate saepe delectus ea sint a laboriosam illo nisi. Doloremque eos autem quae quidem, esse ut voluptatem. Atque doloremque voluptas iusto, minima deserunt labore nulla beatae tenetur doloribus."
+        "description": "In the previous assignment, you created a large number of visualizations but likely stuck with the default design choices the software package (e.g., Tableau) made. In this assignment, you will instead focus on these design choices by sketching 3 visualizations, and then crafting a single visualization from a small dataset. You should, in theory, be able to justify the contribution of every element of the visualization."
     },
     {
-        "title": "Ipsa quia ad quod.",
+        "title": "Assignment 4: Persuasive or Deceptive Visualization?",
+        "year": "2024",
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Similique rem repudiandae consequatur, saepe temporibus nostrum error mollitia a provident ratione, aut velit, iste beatae laborum? Odio sed fuga amet veritatis? Magnam, tenetur rerum? Dicta iste fugiat excepturi exercitationem!"
+        "description": "In this assignment, you will grapple with how to design visualizations ethically by crafting two different, opposing perspectives to the same question posed about a single dataset. Once this assignment is complete, we will (anonymously) peer review each other’s visualizations during a future lecture session."
     },
     {
         "title": "Architecto laudantium tenetur maiores?",
+        "year": "2014",
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
         "description": "Dolores at porro ex dolorem repellendus illum, dolorum est nostrum quae. Libero nesciunt fugiat fugit cupiditate natus! Nostrum ad placeat incidunt qui! Impedit amet velit libero sint quas, consequuntur quidem."
     },
     {
         "title": "Excepturi beatae qui fuga?",
+        "year": "2015",
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
         "description": "Nemo repellat error officia illum iure ratione consequuntur, blanditiis porro deleniti nesciunt officiis, vero aut recusandae cupiditate ducimus animi praesentium dignissimos assumenda quia, accusamus debitis hic voluptate! Perspiciatis, earum! Dolorem."
     },
     {
         "title": "Voluptas quas aspernatur minima.",
+        "year": "2015",
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
         "description": "Totam ducimus temporibus recusandae, ipsa eos doloremque facere suscipit adipisci tenetur alias. Reiciendis totam ipsam error necessitatibus hic velit non facere laudantium quia, debitis saepe sequi rem. Dicta, id neque."
     },
     {
         "title": "Minus quod fuga sequi.",
+        "year": "2016",
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
         "description": "Incidunt facilis dolorum eius sint quo repudiandae dolorem dignissimos quam aut debitis? Itaque odio nobis vero placeat veritatis consectetur quod dolor possimus iusto autem excepturi, perspiciatis, voluptate eveniet, rerum explicabo."
     },
     {
         "title": "Dicta eveniet aperiam voluptatibus?",
+        "year": "2017",
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
         "description": "Ipsam saepe, ipsum aut praesentium iure aperiam eveniet quod nemo atque, ullam ratione earum veniam nisi, enim neque! Nemo minus deserunt accusamus pariatur! Repellat, veritatis. Voluptatem accusamus excepturi et voluptates."
     },
     {
         "title": "Eveniet quidem corporis ipsum!",
+        "year": "2018",
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
         "description": "Pariatur obcaecati repudiandae soluta aliquam id quaerat? Molestiae assumenda nulla quo maiores. Sapiente tempore, iste harum animi omnis minus, commodi tempora sit quae inventore temporibus! Esse animi id ea et!"
     },
     {
         "title": "Ratione, adipisci ipsum! Quia?",
+        "year": "2019",
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
         "description": "Itaque soluta tempore doloremque officia nobis nostrum labore illo ratione, rerum exercitationem iure odit, est ad sint incidunt aperiam quaerat rem quo corporis reiciendis at natus tenetur modi? Ab, fugit?"
     },
     {
         "title": "Molestias similique adipisci illum.",
+        "year": "2019",
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
         "description": "Repellat animi nihil labore odio voluptas ea quibusdam excepturi voluptatum expedita, ducimus quos soluta inventore ut ad corrupti nulla mollitia. Dolor quam maiores nesciunt illum vel nulla sint in suscipit."
     }
